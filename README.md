@@ -1,7 +1,7 @@
 # HIBP Parser
 PowerShell based parser for HaveIBeenPwned.com JSON reports. 
 
-![HIBPParser](https://github.com/nterl0k/HIBP-Parser/blob/master/images/pwnedlogo.png)
+![HIBPParser](https://github.com/nterl0k/HIBP-Parser/blob/master/Images/pwnedlogo.png)
 
 Feed it a JSON Domain Report from "Have I Been Pwned", pretty simple. This requires signing up for domain monitoring through Have I Been Pwned. This can be done at the following link.
 
@@ -23,7 +23,7 @@ Use the following command to start the process.
 
 New-HaveIBeenPwndParse.ps1 -JSONURL "link here"
 
-![HIBPParser2](https://github.com/nterl0k/HIBP-Parser/blob/master/images/image002.png)
+![HIBPParser2](https://github.com/nterl0k/HIBP-Parser/blob/master/Images/Image002.png)
 
 ### Main Menu
 Main menu has 3 basic options.
