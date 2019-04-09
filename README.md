@@ -23,7 +23,7 @@ Use the following command to start the process.
 
 New-HaveIBeenPwndParse.ps1 -JSONURL "link here"
 
-![HIBPParser2](https://github.com/nterl0k/HIBP-Parser/blob/master/Images/Image002.png)
+![HIBPParser2](https://github.com/nterl0k/HIBP-Parser/blob/master/Images/image002.png)
 
 ### Main Menu
 Main menu has 3 basic options.
@@ -34,7 +34,7 @@ Main menu has 3 basic options.
 All options will check AD if the user is a valid account based on email to AD filtering. It will then check the breach data date to see if the AD account may be in danger of password guessing.
 
 
-![HIBPParser3](https://github.com/nterl0k/HIBP-Parser/blob/master/images/image003.png)
+![HIBPParser3](https://github.com/nterl0k/HIBP-Parser/blob/master/Images/image003.png)
 
 ### Report Output
 Each report option will allow for multiple output formats:
@@ -43,4 +43,4 @@ Each report option will allow for multiple output formats:
 - Email report. Includes minor verbiage and CSV attached
     - Also includes the default distro in the script config but will allow for other targets as well.
 
-![HIBPParser1](https://github.com/nterl0k/HIBP-Parser/blob/master/images/image001.png)
+![HIBPParser1](https://github.com/nterl0k/HIBP-Parser/blob/master/Images/image001.png)
